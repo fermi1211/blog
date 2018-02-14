@@ -34,7 +34,7 @@ tags: [Me]
   Graduated from <a href="http://www.nthu.edu.tw">National Tsing Hua University (Taiwan).</a><br>
   Major in <a href="http://web.cs.nthu.edu.tw">Computer Science.</a>
   <br><br>
-  I love :<br><br>  
+  I love :<br><br>
   - Orienteering<br>
   - All kinds of sports contains ball (except basketball & volleyball)<br>
   - Mass tranportation<br>
