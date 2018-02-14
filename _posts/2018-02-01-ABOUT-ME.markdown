@@ -7,8 +7,8 @@ img: cover.jpg # Add image post (optional)
 tags: [Me]
 ---
 <div>
-  <h3 align="center" color="grey">相信你做的任何選擇</h3>
-  <h3 align="center" color="grey">Believe in what you believe</h3>
+  <h3 align="center" color="#979A9A">相信你做的任何選擇</h3>
+  <h3 align="center" color="#979A9A">Believe in what you believe</h3>
 </div>
 <hr>
 <div>
@@ -19,7 +19,6 @@ tags: [Me]
   主修 <a href="http://web.cs.nthu.edu.tw">資訊工程.</a>
   <br><br>
   興趣 :<br><br>
-  
   - 定向越野<br>
   - 各項球類運動(除了籃球、排球)<br>
   - 交通運輸<br>
@@ -35,8 +34,7 @@ tags: [Me]
   Graduated from <a href="http://www.nthu.edu.tw">National Tsing Hua University (Taiwan).</a><br>
   Major in <a href="http://web.cs.nthu.edu.tw">Computer Science.</a>
   <br><br>
-  I love :<br><br>
-  
+  I love :<br><br>  
   - Orienteering<br>
   - All kinds of sports contains ball(except basketball & volleyball)<br>
   - Mass tranportation<br>
