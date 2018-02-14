@@ -13,34 +13,34 @@ tags: [Me]
 <hr>
 <div>
   我的名字是 陳瑞陽.
-  <br>
+  <br><br>
   目前擔任 臺中市原住民綜合服務中心 替代役 (2017.07.17~2018.07.04).<br>
   畢業於 <a href="http://www.nthu.edu.tw">國立清華大學.</a><br>
   主修 <a href="http://web.cs.nthu.edu.tw">資訊工程.</a>
-  <br>
-  興趣 :
+  <br><br>
+  興趣 :<br><br>
   
-  - 定向越野
-  - 各項球類運動(除了籃球、排球)
-  - 交通運輸
-  - 路線設計
-  - 唱歌
-  - 閱讀
+  - 定向越野<br>
+  - 各項球類運動(除了籃球、排球)<br>
+  - 交通運輸<br>
+  - 路線設計<br>
+  - 唱歌<br>
+  - 閱讀<br><br>
 </div>
 <hr>
 <div>
-  My name is Jui-Yang Chen..
-  <br>
+  My name is Jui-Yang Chen.
+  <br><br>
   Now is fulfilling my mandatory military at Taichung City Indigenous People Service Center (2017.07.17~2018.07.04).<br>
   Graduated from <a href="http://www.nthu.edu.tw">National Tsing Hua University (Taiwan).</a><br>
   Major in <a href="http://web.cs.nthu.edu.tw">Computer Science.</a>
-  <br>
-  I love :
+  <br><br>
+  I love :<br><br>
   
-  - Orienteering
-  - All kinds of sports contains ball(except basketball & volleyball)
-  - Mass tranportation
-  - Route design
-  - singing
-  - reading
+  - Orienteering<br>
+  - All kinds of sports contains ball(except basketball & volleyball)<br>
+  - Mass tranportation<br>
+  - Route design<br>
+  - singing<br>
+  - reading<br><br>
 </div>
