@@ -20,7 +20,7 @@ tags: [Me]
   <br><br>
   興趣 :<br><br>
   - 定向越野<br>
-  - 各項球類運動(除了籃球、排球)<br>
+  - 各項球類運動 (除了籃球、排球)<br>
   - 交通運輸<br>
   - 路線設計<br>
   - 唱歌<br>
@@ -36,7 +36,7 @@ tags: [Me]
   <br><br>
   I love :<br><br>  
   - Orienteering<br>
-  - All kinds of sports contains ball(except basketball & volleyball)<br>
+  - All kinds of sports contains ball (except basketball & volleyball)<br>
   - Mass tranportation<br>
   - Route design<br>
   - singing<br>
