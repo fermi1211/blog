@@ -3,6 +3,6 @@ layout: post
 title: ABOUT ME
 date: 2018-02-01 09:30:00 +0800
 description: My description # Add post description (optional)
-img:  cover # Add image post (optional)
+img:  cover.jpg # Add image post (optional)
 tags: [Me]
 ---
