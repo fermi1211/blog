@@ -27,6 +27,7 @@ tags: [Me]
   - 唱歌
   - 閱讀
 </div>
+<hr>
 <div>
   My name is Jui-Yang Chen..
   <br>
