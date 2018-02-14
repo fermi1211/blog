@@ -10,7 +10,7 @@ tags: [Me]
   <h3 align="center" style="color:#ABABAB">相信你做的任何選擇<br>
   Believe in what you believe</h3>
 </div>
-<hr>
+<hr><span style="color:orange;">文字顏色為橘色</span>
 <div>
   我的名字是 陳瑞陽.
   <br><br>
