@@ -7,8 +7,8 @@ img: cover.jpg # Add image post (optional)
 tags: [Me]
 ---
 <div>
-  <h3 align="center"><span style="color:#ABABAB">相信你做的任何選擇</span></h3>
-  <h3 align="center"><span style="color:#ABABAB">Believe in what you believe</span></h3>
+  <h3 align="center">相信你做的任何選擇</h3>
+  <h3 align="center">Believe in what you believe</h3>
 </div>
 <hr>
 <div>
