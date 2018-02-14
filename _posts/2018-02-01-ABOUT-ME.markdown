@@ -7,3 +7,4 @@ img: cover.jpg # Add image post (optional)
 tags: [Me]
 ---
 
+<h3>Be a better man</h3>
