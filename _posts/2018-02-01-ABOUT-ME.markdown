@@ -6,5 +6,40 @@ description: My description # Add post description (optional)
 img: cover.jpg # Add image post (optional)
 tags: [Me]
 ---
-
-<h3>Be a better man</h3>
+<div>
+  <h3 align="center" color="grey">相信你做的任何選擇</h3>
+  <h3 align="center" color="grey">Believe in what you believe</h3>
+</div>
+<hr>
+<div>
+  我的名字是 陳瑞陽.
+  <br>
+  目前擔任 臺中市原住民綜合服務中心 替代役 (2017.07.17~2018.07.04).<br>
+  畢業於 <a href="http://www.nthu.edu.tw">國立清華大學.</a><br>
+  主修 <a href="http://web.cs.nthu.edu.tw">資訊工程.</a>
+  <br>
+  興趣 :
+  
+  - 定向越野
+  - 各項球類運動(除了籃球、排球)
+  - 交通運輸
+  - 路線設計
+  - 唱歌
+  - 閱讀
+</div>
+<div>
+  My name is Jui-Yang Chen..
+  <br>
+  Now is fulfilling my mandatory military at Taichung City Indigenous People Service Center (2017.07.17~2018.07.04).<br>
+  Graduated from <a href="http://www.nthu.edu.tw">National Tsing Hua University (Taiwan).</a><br>
+  Major in <a href="http://web.cs.nthu.edu.tw">Computer Science.</a>
+  <br>
+  I love :
+  
+  - Orienteering
+  - All kinds of sports contains ball(except basketball & volleyball)
+  - Mass tranportation
+  - Route design
+  - singing
+  - reading
+</div>
