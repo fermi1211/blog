@@ -594,10 +594,10 @@
 
 /* Button 4 */
 .btn-4 {
-	border-radius: 50px;
-	border: 3px solid #fff;
+	border-radius: 10px;
+	border: 3px solid #ccc;
 	color: #ccc;
-	overflow: hidden;
+	/*overflow: hidden;*/
 }
 
 .btn-4:active {
@@ -611,9 +611,9 @@
 
 .btn-4:before {
 	position: absolute;
-	height: 100%;
-	font-size: 125%;
-	line-height: 3.5;
+	height: 60%;
+	font-size: 50%;
+	line-height: 2;
 	color: #fff;
 	-webkit-transition: all 0.3s;
 	-moz-transition: all 0.3s;
@@ -626,12 +626,12 @@
 
 /* Button 4a */
 .btn-4a:before {
-	left: 130%;
+	left: 10%;
 	top: 0;
 }
 
 .btn-4a:hover:before {
-	left: 80%;
+	left: 20%;
 }
 
 /* Button 4b */
