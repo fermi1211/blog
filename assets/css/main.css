@@ -1008,7 +1008,7 @@ table tfoot td {
 
 .contact .contact-title {
   position: relative;
-  color: #333030;
+  color: #fff;
   font-weight: 400;
   font-size: 12px;
   margin: 0 0 5px;
@@ -1028,7 +1028,7 @@ table tfoot td {
   position: absolute;
   top: 50%;
   left: 0;
-  background-color: #515151;
+  background-color: #fff;
 }
 
 .contact .contact-title::after {
@@ -1043,7 +1043,7 @@ table tfoot td {
   position: absolute;
   top: 50%;
   right: 0;
-  background-color: #515151;
+  background-color: #fff;
 }
 
 .contact ul {
@@ -1073,7 +1073,7 @@ table tfoot td {
 }
 
 .contact ul li a:hover {
-  color: #333030;
+  color: #fff;
   -webkit-transform: scale(1.2);
       -ms-transform: scale(1.2);
           transform: scale(1.2);
