@@ -912,7 +912,7 @@ table tfoot td {
           justify-content: space-between;
   position: fixed;
   top: 0;
-  left: 400px;
+  left: 0;
   bottom: 0;
   width: 240px;
   height: 100%;
@@ -986,7 +986,7 @@ table tfoot td {
 
 .content-box {
   padding: 20px;
-  padding-left: 660px;
+  padding-left: 260px;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -1085,7 +1085,7 @@ footer .copyright {
 }
 
 .post {
-  width: 780px;
+  width: 100%;
   max-width: 100%;
   margin-bottom: 1.5rem;
   display: -webkit-box;
