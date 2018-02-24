@@ -2,7 +2,7 @@
 layout: post
 title: 106學年度第10屆全國中等學校定向越野錦標賽
 date: 2018-02-24 21:30:00 +0800
-description: @台中都會公園 # Add post description (optional)
+description:  # Add post description (optional)
 img: cover.jpg # Add image post (optional)
 tags: [Orienteering, Contest]
 ---
